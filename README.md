@@ -175,7 +175,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus :
 ## LED ON:
-<img src="https://github.com/Bala1511/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118680410/e673babb-c802-4f37-974c-84f434ee4c7a" width="450" height="450">
+<img src="https://github.com/Bala1511/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118680410/e673babb-c802-4f37-974c-84f434ee4c7a" width="450" height="450"><br>
 ## LED OFF:
 <img src="https://github.com/Bala1511/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118680410/80a37242-84dc-4cf3-875c-a9fd28818ebe" width="450" height="450">
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
